@@ -1,0 +1,14 @@
+Thoughts on models
+
+Base Test Cases
+1. Linear prediction based on realtor estimate of quality
+2. Group prediction based on neighborbood
+3. Linear prediction based on square footage
+4. Multilinear prediction based on square footage and lot size
+lot size may not have varience, may just be outliers
+
+Maybe sort of a pridictive model
+The combination of the above
+
+Multilinier predictiors
+Regression against everything
